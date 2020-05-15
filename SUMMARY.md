@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Documentation requirements.](README.md)
+* [Introduction.](README.md)
+* [Documentation requirements.](documentation-requirements..md)
 * [Code.](code..md)
 * [Cross-references.](cross-references..md)
 * [Diagrams.](diagrams..md)
