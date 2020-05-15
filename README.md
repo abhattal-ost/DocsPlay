@@ -13,7 +13,8 @@ I think [once-upon-a-time it may have been open-source](https://github.com/Gitbo
   * A page with an embedded youtube video : [http://handbook.enspiral.com/guides/contributing.html](http://handbook.enspiral.com/guides/contributing.html) 
 * **Documentation.**
   * See [https://docs.gitbook.com/](https://docs.gitbook.com/)
-  * Also [https://docs.gitbook.com/editing-content/markdown](https://docs.gitbook.com/editing-content/markdown) 
+  * Also [https://docs.gitbook.com/editing-content/markdown](https://docs.gitbook.com/editing-content/markdown)
+  * Some 3rd-party doc about links in gitbook [https://seadude.gitbooks.io/learn-gitbook/content/](https://seadude.gitbooks.io/learn-gitbook/content/) 
 * **Where are the doc files ?**
 
   * [https://docs.gitbook.com/integrations/github](https://docs.gitbook.com/integrations/github)  

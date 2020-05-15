@@ -2,7 +2,7 @@
 
 This document includes links between pages, and to an external URL.
 
-The gitbook documentation doesn't mention much about sections, let alone cross-referencing them, which is worrying.
+The gitbook documentation doesn't mention much about sections, let alone cross-referencing them, which is worrying. Maybe you can do this using regular markdown, but any tooling seems scarce.
 
 ### Something.
 
