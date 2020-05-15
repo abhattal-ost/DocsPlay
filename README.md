@@ -2,16 +2,16 @@
 
 ## Desired features.
 
-* code-blocks
-  *  by language
-  * code generation \(e.g. REST calls\)
-* cross references
-* diagrams
-  *  raster
-  * vector
-* maths
-* search
-* versions
+* [Code](code..md).
+  *  by language.
+  * code generation \(e.g. REST calls\).
+* Cross-references.
+* Diagrams.
+  * raster.
+  * vector.
+* [Maths](maths.md).
+* Search.
+* Versions.
 
 
 
