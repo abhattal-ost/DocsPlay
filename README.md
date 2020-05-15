@@ -1,6 +1,6 @@
 # Introduction.
 
-I'm not sure how flexible gitbook is in terms of look, layout \(both the site as a whole, and text\), support for mathematics etc. You do, however, get to integrate with the github repository of your choice, and there are a bunch of .md files for each page, which you can create and edit in the online app.
+I'm not sure how flexible gitbook is in terms of look, layout \(both the site as a whole, and text\), support for mathematics etc. You do, however, get to integrate with the github repository of your choice \([here's mine](https://github.com/abhattal-ost/DocsPlay)\), and there are a bunch of .md files for each page, which you can create and edit in the online app.
 
 I think [once-upon-a-time it may have been open-source](https://github.com/GitbookIO/gitbook), before going commercial \(now there's an idea ...\).
 
