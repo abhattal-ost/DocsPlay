@@ -2,7 +2,7 @@
 
 Just for reference and comparison, here are some other documentation sites.
 
-* [Android Developers Guide](https://developer.android.com/guide), I think this looks quite nice.
+* [Android Developers Guide](https://developer.android.com/guide), I think this looks quite nice, given it has very technical content.
 * [Microsoft's TypeScript](https://www.staging-typescript.org/docs/handbook) pages.
 * [Python doc pages](https://docs.python.org/3/), not so pretty but gets the job done.
 * [neo4j docs](https://neo4j.com/docs/getting-started/current/), who are they ?

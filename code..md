@@ -1,4 +1,4 @@
-# Code
+# Code.
 
 Code is quite important to a software development company. For example, here's some right now.
 

@@ -1,4 +1,4 @@
-# Maths
+# Maths.
 
 I have no idea how maths is entered, if at all. Oh there's a thing ...
 
