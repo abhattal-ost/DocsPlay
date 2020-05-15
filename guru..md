@@ -1,10 +1,10 @@
-# Guru
+# Video
 
-We follow the teachings of Boris :
+The correct Boris in action :
 
 {% embed url="https://youtu.be/7wpRkN6HEfI" %}
 
-Beware false prophets :
+The other one :
 
 {% embed url="https://youtu.be/5z4K\_G14\_Ho" %}
 

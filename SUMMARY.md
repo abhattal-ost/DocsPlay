@@ -8,5 +8,5 @@
   * [A Sub-Page](cross-references./a-sub-page.md)
 * [Diagrams](diagrams..md)
 * [Maths](maths.md)
-* [Guru](guru..md)
+* [Video](guru..md)
 
