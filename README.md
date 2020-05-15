@@ -6,7 +6,7 @@ I'm not sure how flexible gitbook is in terms of look, layout \(both the site as
   * How customisable is it \(doesn't look like example sites are very different in style ?\).
 * **Pricing.**
   * See [https://www.gitbook.com/pricing](https://www.gitbook.com/pricing) $300/month \(if you want features that include shareable links and better branding\).
-* Some **example sites** produced using gitbook.
+* **Some example sites produced using gitbook.**
   * See [links here](https://github.com/GitbookIO/gitbook/blob/master/docs/examples.md).
   * A page with an embedded youtube video : [http://handbook.enspiral.com/guides/contributing.html](http://handbook.enspiral.com/guides/contributing.html)
 * **Documentation.**
