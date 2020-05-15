@@ -5,8 +5,8 @@
 * [Code](code..md).
   *  by language.
   * code generation \(e.g. REST calls\).
-* Cross-references.
-* Diagrams.
+* [Cross-references](cross-references..md).
+* [Diagrams](diagrams..md).
   * raster.
   * vector.
 * [Maths](maths.md).
