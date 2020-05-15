@@ -9,7 +9,7 @@
 * diagrams
   *  raster
   * vector
-* [maths](maths.md)
+* maths
 * search
 * versions
 
