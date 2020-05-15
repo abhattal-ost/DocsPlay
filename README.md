@@ -1,1 +1,2 @@
-# DocsPlay
+# Initial page
+
