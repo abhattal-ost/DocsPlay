@@ -1,11 +1,12 @@
 # Introduction
 
-I'm not sure how flexible gitbook is in terms of look, layout \(both the site as a whole, and text\), support for mathematics etc. You do, however, get to integrate with the github repository of your choice \([here's mine](https://github.com/abhattal-ost/DocsPlay)\), and there are a bunch of .md files for each page, which you can create and edit in the online app.
+I'm not sure how flexible gitbook is in terms of look, layout \(both the site as a whole, and text\), support for mathematics etc. You do, however, get to integrate with the github repository of your choice \([here's mine](https://github.com/abhattal-ost/DocsPlay)\), and there are a bunch of .md files for each page, which you can create and edit in the online app \(or you can edit the markdown directly and commit to github\).
 
 I think [once-upon-a-time it may have been open-source](https://github.com/GitbookIO/gitbook), before going commercial \(now there's an idea ...\).
 
-* **Questions.**
-  * How customisable is it \(doesn't look like example sites are very different in style ?\). 
+* **Questions and remarks.**
+  * How customisable is it \(doesn't look like example sites are very different in style ?\).
+  * The commits in github look pretty anonymous even if you enter a comment in the gitbook editor before saving. 
 * **Pricing.**
   * See [https://www.gitbook.com/pricing](https://www.gitbook.com/pricing) $300/month \(if you want features that include shareable links and better branding\). 
 * **Some example sites produced using gitbook.**
