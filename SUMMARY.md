@@ -3,4 +3,5 @@
 * [Documentation requirements.](README.md)
 * [Maths.](maths.md)
 * [Code.](code..md)
+* [Guru.](guru..md)
 
