@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Documentation requirements.](README.md)
-* [Maths.](maths.md)
 * [Code.](code..md)
+* [Diagrams.](diagrams..md)
+* [Maths.](maths.md)
 * [Guru.](guru..md)
 
