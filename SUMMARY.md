@@ -2,9 +2,10 @@
 
 * [Introduction](README.md)
 * [Other Documentation Sites](other-documentation-sites.md)
-* [Documentation requirements](documentation-requirements..md)
+* [Documentation Requirements](documentation-requirements..md)
 * [Code](code..md)
-* [Cross-references](cross-references..md)
+* [Cross-references](cross-references./README.md)
+  * [A Sub-Page](cross-references./a-sub-page.md)
 * [Diagrams](diagrams..md)
 * [Maths](maths.md)
 * [Guru](guru..md)

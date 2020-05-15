@@ -1,4 +1,4 @@
-# Guru.
+# Guru
 
 We follow the teachings of Boris :
 

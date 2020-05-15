@@ -1,11 +1,11 @@
-# Documentation requirements.
+# Documentation Requirements
 
 ## Desired features.
 
 * [Code](code..md).
-  *  by language.
+  * by language.
   * code generation \(e.g. REST calls\).
-* [Cross-references](cross-references..md).
+* [Cross-references](cross-references./).
 * [Diagrams](diagrams..md).
   * raster.
   * vector.
