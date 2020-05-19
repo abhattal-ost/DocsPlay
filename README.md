@@ -4,8 +4,14 @@ I'm not sure how flexible gitbook is in terms of look, layout \(both the site as
 
 I think [once-upon-a-time it may have been open-source](https://github.com/GitbookIO/gitbook), before going commercial \(now there's an idea ...\).
 
-* **Questions and remarks.**
+* **Questions.**
+
+  * Can we do advanced maths, or plug-in some better maths module ?
+  * Can we create links to sections of text, and find broken links ?
+  * How does search work, is there anything to configure, how good is it ?
   * How customisable is it \(doesn't look like example sites are very different in style ?\).
+
+* **Remarks.**
   * The commits in github look pretty anonymous even if you enter a comment in the gitbook editor before saving. 
 * **Pricing.**
   * See [https://www.gitbook.com/pricing](https://www.gitbook.com/pricing) $300/month \(if you want features that include shareable links and better branding\). 
