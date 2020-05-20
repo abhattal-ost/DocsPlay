@@ -1,6 +1,6 @@
 # Introduction
 
-I'm not sure how flexible gitbook is in terms of look, layout \(both the site as a whole, and text\), support for mathematics etc. You do, however, get to integrate with the github repository of your choice \([here's mine](https://github.com/abhattal-ost/DocsPlay)\), and there are a bunch of .md files for each page, which you can create and edit in the online app \(or you can edit the markdown directly and commit to github\).
+I'm not sure how flexible gitbook is in terms of look, layout \(both the site as a whole, and text\). You do, however, get to integrate with the github repository of your choice \([here's mine](https://github.com/abhattal-ost/DocsPlay)\), and there are a bunch of .md files for each page, which you can create and edit in the online app \(or you can edit the markdown directly and commit to github\).
 
 I think [once-upon-a-time it may have been open-source](https://github.com/GitbookIO/gitbook), before going commercial \(now there's an idea ...\).
 
@@ -21,7 +21,7 @@ I think [once-upon-a-time it may have been open-source](https://github.com/Gitbo
 * **Documentation.**
   * See [https://docs.gitbook.com/](https://docs.gitbook.com/)
   * Also [https://docs.gitbook.com/editing-content/markdown](https://docs.gitbook.com/editing-content/markdown)
-  * Some 3rd-party doc about links in gitbook [https://seadude.gitbooks.io/learn-gitbook/content/](https://seadude.gitbooks.io/learn-gitbook/content/) 
+  * ~~Some 3rd-party doc about links in gitbook~~ [~~https://seadude.gitbooks.io/learn-gitbook/content/~~](https://seadude.gitbooks.io/learn-gitbook/content/) Links to headings does work in gitbook, so this reference is probably irrelevant. 
 * **Where are the doc files ?**
 
   * [https://docs.gitbook.com/integrations/github](https://docs.gitbook.com/integrations/github)  
