@@ -7,7 +7,7 @@ I think [once-upon-a-time it may have been open-source](https://github.com/Gitbo
 * **Questions.**
 
   * ~~Can we do advanced maths, or plug-in some better maths module ?~~ Yes we can, looks like Latex format is supported ?
-  * Can we create links to sections of text, and find broken links ?
+  * ~~Can we create links to sections of text,~~ and find broken links ? Yes we can link to headings.
   * How does search work, is there anything to configure, how good is it ?
   * How customisable is it \(doesn't look like example sites are very different in style ?\).
 
