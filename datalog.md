@@ -1,4 +1,3 @@
-<div id="datalog" counter="3"></div>
 
 # RDFox Datalog
 
@@ -6,6 +5,12 @@ To efficiently answer queries, RDFox materialises all consequences of the infere
 
 A rule has the form
 
+(this is written in Latex maths format)
+$$
+H_{1} ,... , H_{j} :- L_{1} ,... , L_{k} .
+$$
+
+(this is the original which used pre, code, and sub html tags)
 <pre><code>H<sub>1</sub> ,... , H<sub>j</sub> :- L<sub>1</sub> ,... , L<sub>k</sub> .</code></pre>
 
 where the formula to the left of the `:-` operator is the rule head and the formula to the right is the rule *body*. Intuitively, a rule says "if <code>L<sub>1</sub></code>, ..., and <code>L<sub>k</sub></code> all hold, then <code>H<sub>1</sub></code>, ..., and <code>H<sub>j</sub></code> hold as well". Each <code>H<sub>i</sub></code> with 1 &le; i &le; j is an *atom*, and each <code>L<sub>i</sub></code> with 1 &le; i &le; k is a *literal*. A literal is an *atom*, a *negation*, a *bind literal*, a *filter literal*, or an *aggregate literal*. We next explain what these constructs are, and demonstrate how to use them by means of examples.
