@@ -4,13 +4,13 @@ To efficiently answer queries, RDFox materialises all consequences of the infere
 
 A rule has the form
 
-\(this is written in Latex maths format, with a bit of buggering around with spacing around the :- symbol\)
+\(this is written in Latex maths format, with a bit of buggering around with spacing around the :- operator\)
 
 $$
 H_{1} ,... , H_{j} :\!\!-\: L_{1} ,... , L_{k} .
 $$
 
-\(this is the original which used pre, code, and sub html tags\)
+\(this is the original which used pre, code, and sub html tags, note that the subscripts have gone missing\)
 
 ```text
 H1 ,... , Hj :- L1 ,... , Lk .
