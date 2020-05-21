@@ -9,6 +9,4 @@
 * [Diagrams](diagrams..md)
 * [Maths](maths.md)
 * [Video](guru..md)
-* [Untitled](untitled.md)
 * [Datalog](datalog.md)
-
